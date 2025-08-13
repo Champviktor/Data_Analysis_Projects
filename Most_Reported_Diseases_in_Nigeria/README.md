@@ -77,8 +77,8 @@ This dashboard turns complex health data into actionable insight guiding smarter
 
 ## 📂 Project Files
 
-- 📈 `Most Reported Diseases in Nigeria.pbix` – Power BI project file
-- 🗂️ `Most Reported Diseases in Nigeria.csv` – Cleaned dataset used for analysis
+- 📈 `Most_Reported_Diseases_in_Nigeria.pbix` – Power BI project file
+- 🗂️ `Most_Reported_Diseases_in_Nigeria.csv` – Cleaned dataset used for analysis
 
 
 ## 🧠 What I Learned
