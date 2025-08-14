@@ -1,0 +1,51 @@
+Loan_ID,Business_Name,Location,Gender,Loan_Amount,Disbursed_Date,Repayment_Status,Monthly_Income,Product_Type,Sector
+L001,Roberts-Moore,Lagos,Male,13566,2025-04-01,Defaulted,58725,Long-term,Agriculture
+L002,Elliott Inc,Aba,Female,49047,2025-04-21,Defaulted,42775,Long-term,Transport
+L003,"Hahn, Robinson and Thompson",Aba,Male,44857,2025-07-08,Paid On Time,8510,Long-term,Retail
+L004,"Barnes, Smith and Allen",Lagos,Female,26835,2025-02-04,Defaulted,59472,Short-term,Retail
+L005,Morales Ltd,Kano,Male,25636,2025-06-29,Defaulted,47938,Long-term,Agriculture
+L006,Fleming Inc,Kano,Male,13573,2025-02-07,Paid Late,40211,Short-term,Retail
+L007,Doyle-Perez,Jos,Female,45930,2025-05-18,Paid On Time,29804,Short-term,Retail
+L008,English PLC,Ibadan,Female,34663,2025-06-15,Defaulted,42839,Short-term,Fashion
+L009,"Foley, Thompson and Buchanan",Jos,Male,25442,2025-05-06,Paid On Time,36407,Long-term,Fashion
+L010,Hebert-Phillips,Lagos,Female,37662,2025-07-31,Defaulted,50886,Long-term,Agriculture
+L011,"Foster, Lara and Smith",Lagos,Female,37829,2025-05-07,Paid Late,19883,Short-term,Transport
+L012,"Robinson, Howard and Campbell",Aba,Female,7407,2025-05-29,Paid Late,13518,Short-term,Transport
+L013,Stewart Ltd,Aba,Female,40253,2025-06-22,Paid On Time,18810,Long-term,Retail
+L014,"Bell, Thompson and Higgins",Ibadan,Female,26882,2025-05-28,Defaulted,23931,Long-term,Agriculture
+L015,"Watson, Ruiz and Torres",Kano,Female,39041,2025-07-08,Paid Late,15871,Short-term,Retail
+L016,"Levy, Barton and Brady",Lagos,Female,8866,2025-02-01,Defaulted,31468,Long-term,Transport
+L017,Jones-Bridges,Ibadan,Male,39338,2025-07-28,Paid On Time,31799,Long-term,Transport
+L018,Howell-Johnson,Lagos,Female,6165,2025-03-07,Defaulted,51477,Long-term,Agriculture
+L019,"Woods, Bell and Curtis",Aba,Male,5999,2025-04-16,Defaulted,46863,Long-term,Transport
+L020,Lee-Zamora,Jos,Female,46589,2025-03-21,Paid On Time,35437,Short-term,Transport
+L021,Walker and Sons,Lagos,Female,43697,2025-07-04,Paid Late,19556,Short-term,Retail
+L022,Brennan-Banks,Kano,Female,24295,2025-04-06,Defaulted,31267,Long-term,Agriculture
+L023,"Taylor, Williams and Barnes",Aba,Female,39744,2025-05-12,Paid On Time,22608,Long-term,Agriculture
+L024,Howell Group,Kano,Female,11166,2025-06-21,Defaulted,30881,Long-term,Food
+L025,Sloan LLC,Kano,Female,42559,2025-06-15,Paid Late,25846,Long-term,Food
+L026,Mcfarland-Medina,Kano,Male,42834,2025-04-29,Paid Late,54860,Long-term,Food
+L027,Salazar-Trevino,Jos,Male,37708,2025-07-02,Paid Late,22681,Long-term,Retail
+L028,Melendez-Martin,Jos,Male,20718,2025-07-05,Defaulted,11071,Long-term,Transport
+L029,"Flores, Jordan and Gibson",Kano,Male,9073,2025-05-31,Paid Late,19518,Short-term,Retail
+L030,Johnson Inc,Ibadan,Female,26788,2025-05-22,Paid Late,45993,Long-term,Fashion
+L031,"Smith, Jones and Burke",Jos,Female,11976,2025-06-18,Paid Late,41415,Long-term,Retail
+L032,Reynolds-Williams,Jos,Male,8693,2025-04-29,Defaulted,27148,Long-term,Transport
+L033,Glenn-Austin,Kano,Female,27037,2025-07-08,Paid Late,12222,Long-term,Agriculture
+L034,Stokes-Cook,Lagos,Male,34738,2025-05-02,Defaulted,21207,Short-term,Fashion
+L035,"Werner, Vargas and Davis",Aba,Female,44076,2025-03-21,Defaulted,50636,Short-term,Retail
+L036,"Wallace, Hickman and Ward",Aba,Female,35824,2025-05-15,Paid On Time,19443,Short-term,Food
+L037,"Evans, Stephenson and Weiss",Lagos,Female,14686,2025-02-14,Defaulted,43095,Short-term,Retail
+L038,"Miller, Martinez and Bell",Aba,Male,41902,2025-04-15,Paid Late,10046,Long-term,Transport
+L039,"Small, Dudley and Blackwell",Aba,Male,42245,2025-06-27,Paid Late,37605,Long-term,Transport
+L040,Gonzalez Ltd,Aba,Male,32502,2025-07-08,Paid Late,48186,Short-term,Retail
+L041,Odom-Brown,Kano,Male,40101,2025-07-21,Defaulted,29766,Long-term,Fashion
+L042,Wiggins Group,Kano,Female,43757,2025-02-04,Defaulted,57077,Long-term,Retail
+L043,Brooks-Collins,Kano,Male,27215,2025-06-15,Paid On Time,16499,Long-term,Food
+L044,"Martinez, Bender and Mora",Lagos,Female,39445,2025-05-28,Paid Late,40041,Short-term,Agriculture
+L045,Romero-Richards,Lagos,Female,10175,2025-06-11,Paid On Time,45194,Short-term,Agriculture
+L046,"Williams, Franklin and Hall",Lagos,Female,35148,2025-06-02,Defaulted,33048,Long-term,Food
+L047,Rivera and Sons,Jos,Female,49861,2025-03-18,Defaulted,19690,Short-term,Agriculture
+L048,Morgan-Poole,Lagos,Female,26652,2025-07-24,Paid On Time,39312,Short-term,Fashion
+L049,Sanders-Hill,Jos,Male,43745,2025-07-04,Defaulted,41217,Long-term,Agriculture
+L050,Dominguez Group,Ibadan,Female,13172,2025-04-25,Paid On Time,46841,Short-term,Fashion
