@@ -4,13 +4,11 @@
 
 Nigeria faces persistent challenges with disease outbreaks and underreported public health trends. This project identifies the **most frequently reported diseases in Nigeria from 2000 to 2024**, empowering policymakers and stakeholders with **data-driven insights** for better decision-making and resource allocation.
 
-
 ## 🛠️ Tools Used
 
 - **Power BI** – Interactive dashboard and data visualization
 - **Excel** – Data formatting and initial cleaning
 - **Google Sheets** – Quick collaboration & checks
-
 
 ## ⚙️ Process Breakdown
 
@@ -34,7 +32,6 @@ Nigeria faces persistent challenges with disease outbreaks and underreported pub
 5. **Interpretation & Insights**  
    - Connected disease spikes with social, economic, and political events (e.g., COVID-19, sanitation campaigns)
 
-
 #### 🔍 **Key Insights**
 
 Nigeria’s health data reflects a dynamic interplay between disease prevalence, environmental crises, and public health interventions:
@@ -55,7 +52,6 @@ Nigeria’s health data reflects a dynamic interplay between disease prevalence,
 * 🔻 **2017** – Likely **underreporting** due to **health facility breakdowns** and infrastructural gaps.
 * 🔻 **2023** – Marked **reduction** in cases, thanks to **post-flood health interventions** and targeted responses.
 
-
 ## 🎯 **Recommendations**
 
 To curb disease surges and build resilience, we recommend:
@@ -67,19 +63,16 @@ To curb disease surges and build resilience, we recommend:
 * 🏥 **Enhance Hospital Reporting Systems**: Digitize and streamline reporting for quicker, data-driven health interventions.
 * 📢 **Launch Seasonal Health Campaigns**: Educate the public during flood seasons to reduce panic and promote early care-seeking behavior.
 
-
 ## ✅ **Conclusion**
 
 Disease data isn’t just about numbers. It’s a mirror reflecting how **health, environment, and policy** collide.
 Each spike tells a story: of **floods**, **system gaps**, and sometimes, of **interventions that worked**.
 This dashboard turns complex health data into actionable insight guiding smarter policies, faster responses, and ultimately, **healthier futures** for Nigeria.
 
-
 ## 📂 Project Files
 
 - 📈 `Most_Reported_Diseases_in_Nigeria.pbix` – Power BI project file
 - 🗂️ `Most_Reported_Diseases_in_Nigeria.csv` – Cleaned dataset used for analysis
-
 
 ## 🧠 What I Learned
 
@@ -89,37 +82,11 @@ This project improved my ability to:
 - Build intuitive dashboards for non-technical users
 - Tell compelling data stories
 
-
-## 📸 Project Screenshots
-
-### Title
-![Title](title.png)
-
-### Dashboard Overview  
-![Overview](overview.png)
-
-### Disease Trend Dashboard 
-![Disease Trend Dashboard](national_disease_trend_dashboard.png)
-
-### State-Level Distribution  
-![State-Level Distribution](state_level_distribution.png)
-
-### Hospital-Level Breakdown 
-![Hospital-Level Breakdown](hospital_level_breakdown.png)
-
-### Trend Summary & Insights
-![Trend Summary & Insights](insights.png)
-
-### Recommendations & Conclusion
-![Recommendations & Conclusion](recommendations.png)
-
-
 ## 🔗 Links
 
 - 🚀 [Live Power BI Dashboard](#) *(https://app.powerbi.com/links/w9jboWvCLa?ctid=66b3f0c2-8bc6-451e-9603-986f618ae682&pbi_source=linkShare&bookmarkGuid=b4b1144e-4193-44db-ae0d-492e147b77e0)*
 - 💾 [GitHub Repo](https://github.com/Champviktor/Data_Analysis_Projects)
 - 📝 [Full Case Study (Google Docs — TBD)
-
 
 > Built with purpose by **Victor Olasunkanmi Odeyemi** 🧠🇳🇬  
 > Let’s make data work for Africa.
