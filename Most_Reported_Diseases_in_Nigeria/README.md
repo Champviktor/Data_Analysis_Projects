@@ -90,6 +90,30 @@ This project improved my ability to:
 - Tell compelling data stories
 
 
+## 📸 Project Screenshots
+
+### Title
+![Title](title.png)
+
+### Dashboard Overview  
+![Overview](overview.png)
+
+### Disease Trend Dashboard 
+![Disease Trend Dashboard](national_disease_trend_dashboard.png)
+
+### State-Level Distribution  
+![State-Level Distribution](state_level_distribution.png)
+
+### Hospital-Level Breakdown 
+![Hospital-Level Breakdown](hospital_level_breakdown.png)
+
+### Trend Summary & Insights
+![Trend Summary & Insights](insights.png)
+
+### Recommendations & Conclusion
+![Recommendations & Conclusion](recommendations.png)
+
+
 ## 🔗 Links
 
 - 🚀 [Live Power BI Dashboard](#) *(https://app.powerbi.com/links/w9jboWvCLa?ctid=66b3f0c2-8bc6-451e-9603-986f618ae682&pbi_source=linkShare&bookmarkGuid=b4b1144e-4193-44db-ae0d-492e147b77e0)*
